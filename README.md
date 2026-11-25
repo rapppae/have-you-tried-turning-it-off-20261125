@@ -4,7 +4,7 @@
 
 Entry for the make.fun bounty [Have You Tried Turning It Off?](https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b).
 
-> Have you tried turning it off and on again? No? Great, that is step one of twelve, and step two is me Googling your exact error message.
+> Let us start by turning it off and on again — while it restarts, I will quietly Google your error message and pretend I knew the answer all along.
 
 ## Run
 
